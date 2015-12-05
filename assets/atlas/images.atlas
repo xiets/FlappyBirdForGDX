@@ -1,0 +1,264 @@
+
+images.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game_bg
+  rotate: false
+  xy: 1, 1
+  size: 480, 1000
+  orig: 480, 1000
+  offset: 0, 0
+  index: -1
+game_floor
+  rotate: false
+  xy: 483, 841
+  size: 480, 160
+  orig: 480, 160
+  offset: 0, 0
+  index: -1
+game_result_bg
+  rotate: false
+  xy: 483, 669
+  size: 332, 170
+  orig: 332, 170
+  offset: 0, 0
+  index: -1
+bar_down
+  rotate: false
+  xy: 483, 267
+  size: 86, 400
+  orig: 86, 400
+  offset: 0, 0
+  index: -1
+bar_up
+  rotate: false
+  xy: 571, 267
+  size: 86, 400
+  orig: 86, 400
+  offset: 0, 0
+  index: -1
+game_tap_tip
+  rotate: false
+  xy: 483, 92
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+game_ready
+  rotate: false
+  xy: 483, 9
+  size: 288, 81
+  orig: 288, 81
+  offset: 0, 0
+  index: -1
+game_start
+  rotate: false
+  xy: 659, 579
+  size: 161, 88
+  orig: 161, 88
+  offset: 0, 0
+  index: 1
+game_start
+  rotate: false
+  xy: 659, 489
+  size: 161, 88
+  orig: 161, 88
+  offset: 0, 0
+  index: 2
+game_over
+  rotate: false
+  xy: 659, 414
+  size: 288, 73
+  orig: 288, 73
+  offset: 0, 0
+  index: -1
+game_medal
+  rotate: false
+  xy: 817, 777
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: 1
+game_medal
+  rotate: false
+  xy: 659, 350
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: 2
+game_medal
+  rotate: false
+  xy: 817, 713
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: 3
+game_medal
+  rotate: false
+  xy: 881, 777
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: 4
+num_big
+  rotate: false
+  xy: 965, 948
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 0
+num_big
+  rotate: false
+  xy: 659, 295
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 1
+num_big
+  rotate: false
+  xy: 723, 359
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 2
+num_big
+  rotate: false
+  xy: 881, 722
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 3
+num_big
+  rotate: false
+  xy: 965, 893
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 4
+num_big
+  rotate: false
+  xy: 766, 359
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 5
+num_big
+  rotate: false
+  xy: 809, 359
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 6
+num_big
+  rotate: false
+  xy: 852, 359
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 7
+num_big
+  rotate: false
+  xy: 895, 359
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 8
+num_big
+  rotate: false
+  xy: 965, 838
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: 9
+brid_yellow
+  rotate: false
+  xy: 817, 677
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: 1
+bird_yellow
+  rotate: false
+  xy: 822, 641
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: 2
+bird_yellow
+  rotate: false
+  xy: 822, 605
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: 3
+num_score
+  rotate: false
+  xy: 1008, 980
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 0
+num_score
+  rotate: false
+  xy: 659, 272
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 1
+num_score
+  rotate: false
+  xy: 702, 327
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 2
+num_score
+  rotate: false
+  xy: 924, 754
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 3
+num_score
+  rotate: false
+  xy: 945, 818
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 4
+num_score
+  rotate: false
+  xy: 822, 582
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 5
+num_score
+  rotate: false
+  xy: 1008, 957
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 6
+num_score
+  rotate: false
+  xy: 675, 272
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 7
+num_score
+  rotate: false
+  xy: 702, 304
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 8
+num_score
+  rotate: false
+  xy: 924, 731
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 9
