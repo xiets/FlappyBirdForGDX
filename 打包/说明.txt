@@ -1,0 +1,30 @@
+
+android: 
+	android平台的apk包直接可以安装到android手机
+
+
+desktop:
+	desktop平台运行需要安装 JDK 或 JRE 并配置环境变量，运行命令: java -jar flappybird-desktop.jar
+	windows平台可直接双击“desktop/windows_run.bat”文件运行
+
+
+html:
+	html平台运行需要本地有服务器环境，建议安装Python，并配置Python环境变量，
+	解压 html/flappybird-html.zip，启动命令行中断，进入到 index.html 所在目录，运行命令（Python 2.x）: python -m SimpleHTTPServer
+	然后浏览器访问 http://localhost:8000/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
