@@ -12,7 +12,7 @@
 
 ## 游戏效果展示
 
-HTML5 平台在线演示（浏览器需要支持 WebGL）： [http://xietansheng.github.io/FlappyBirdForGDX/](http://xietansheng.github.io/FlappyBirdForGDX/)
+HTML5 平台在线演示（浏览器需要支持 WebGL）： [https://xiets.github.io/FlappyBirdForGDX/](https://xiets.github.io/FlappyBirdForGDX/)
 
 Desktop 平台项目运行截图：
 
@@ -20,7 +20,7 @@ Desktop 平台项目运行截图：
 
 ## 详细介绍
 
-[http://blog.csdn.net/xietansheng/article/details/50188319](http://blog.csdn.net/xietansheng/article/details/50188319)
+[https://xiets.blog.csdn.net/article/details/50188319](https://xiets.blog.csdn.net/article/details/50188319)
 
 
 
